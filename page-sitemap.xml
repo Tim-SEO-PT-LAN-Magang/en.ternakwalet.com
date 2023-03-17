@@ -2,7 +2,34 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-03-15T06:00:38+00:00</lastmod>
+		<lastmod>2023-03-17T02:09:56+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Seminar-Markaswalet-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Walet-Tanah.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.25.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.27.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.28.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.30.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Gedung-RBW-Bandung-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Nestone-1024x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Sarang-Mangkok.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/08/avatar-female-1.jpg</image:loc>
 		</image:image>
@@ -18,7 +45,10 @@
 	</url>
 	<url>
 		<loc>/our-profile</loc>
-		<lastmod>2023-03-16T05:38:01+00:00</lastmod>
+		<lastmod>2023-03-17T02:30:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Markas-Vitron-1024x656.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/armond.png</image:loc>
 		</image:image>
@@ -48,8 +78,37 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/contact-us</loc>
+		<lastmod>2023-03-17T02:27:43+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/cropped-Hitam_dan_Oranye_Sederhana_Internet_Logo-removebg-preview-180x41.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/our-gallery</loc>
+		<lastmod>2023-03-17T02:26:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Seminar-Makassar-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Seminar-Banjarmasin-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/DSC09979-300x169.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/cropped-Hitam_dan_Oranye_Sederhana_Internet_Logo-removebg-preview-180x41.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/our-service</loc>
-		<lastmod>2023-03-15T08:58:56+00:00</lastmod>
+		<lastmod>2023-03-17T02:22:57+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Seminar-Makassar-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1665-1024x683.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/y12.png</image:loc>
 		</image:image>
@@ -64,36 +123,58 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact-us</loc>
-		<lastmod>2023-03-15T08:44:49+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/cropped-Hitam_dan_Oranye_Sederhana_Internet_Logo-removebg-preview-180x41.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/article-blogs</loc>
-		<lastmod>2023-03-15T07:41:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/cropped-Hitam_dan_Oranye_Sederhana_Internet_Logo-removebg-preview-180x41.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/our-gallery</loc>
-		<lastmod>2023-03-15T06:50:33+00:00</lastmod>
+		<lastmod>2023-03-17T02:18:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/cropped-Hitam_dan_Oranye_Sederhana_Internet_Logo-removebg-preview-180x41.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/cultivation-process</loc>
-		<lastmod>2023-03-15T06:42:31+00:00</lastmod>
+		<lastmod>2023-03-17T02:17:31+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_8546-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_3378-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_8578-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_3409-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_8535-1024x575.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-13.35.31-1024x682.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/cropped-Hitam_dan_Oranye_Sederhana_Internet_Logo-removebg-preview-180x41.png</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/swiftlet-types</loc>
-		<lastmod>2023-03-15T06:18:34+00:00</lastmod>
+		<lastmod>2023-03-17T02:14:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.25.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.27.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.28.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-14-at-12.41.30.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/IMG_8546-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/20200226045439-1024x768.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/cropped-Hitam_dan_Oranye_Sederhana_Internet_Logo-removebg-preview-180x41.png</image:loc>
 		</image:image>
